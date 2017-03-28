@@ -1,0 +1,19 @@
+{
+  "name": "matrix-spiral",
+  "version": "1.0.0",
+  "description": "simple script for matrix spiral madness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dpiryatinets/matrix-spiral.git"
+  },
+  "author": "Dmitriy Piryatinets <serpensetleo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dpiryatinets/matrix-spiral/issues"
+  },
+  "homepage": "https://github.com/Dpiryatinets/matrix-spiral#readme"
+}
